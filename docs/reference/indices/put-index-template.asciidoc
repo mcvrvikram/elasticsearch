@@ -48,7 +48,7 @@ privilege>> to use this API.
 [[put-index-template-api-desc]]
 ==== {api-description-title}
 
-{es} applies templates to new indices based on an
+{es} applies templates to new indices based on a
 wildcard pattern that matches the index name.
 
 Index templates are applied during data stream or index creation.
